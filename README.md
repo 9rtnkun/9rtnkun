@@ -2,7 +2,7 @@
 Hello World! My name is Ratana Rattanaburee ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================
 
-Junior developer
+Junior developer.
 --------------------------------------------
 
 I've always loved games and anime. Seeing new innovations inspired me to start creating things myself. Now I'm learning and building step by step!
