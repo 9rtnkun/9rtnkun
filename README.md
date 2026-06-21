@@ -26,7 +26,9 @@ src="https://img.shields.io/github/followers/9rtnkun?logo=github&style=for-the-b
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Socials:
+## Socials
+<a href="https://discord.com/users/1006212200895086682"><img src="https://ame-api.9rtnkun.me/v1/user/1006212200895086682.svg"></a>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9rtnkun)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ratanakun2005@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1006212200895086682)
