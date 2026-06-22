@@ -2,15 +2,15 @@
 Hello World! My name is Ratana Rattanaburee ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================
 
-Junior developer
+B.Eng.Com Software Engineer Junior Student Dev.
 --------------------------------------------
 
-I've always loved games and anime. Seeing new innovations inspired me to start creating things myself. Now I'm learning and building step by step!
+I've always loved games and anime. Seeing new innovations inspired me to start creating things myself. Now I'm learning and building step by step! (b°v°)b
 
 * 🌍  I'm based in Thailand
 
 <a href="https://www.github.com/9rtnkun" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/9rtnkun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/9rtnkun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=300" /></a>
 ![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=9rtnkun&repo=9rtnkun&countColor=%237B1E7A)
 
 ## Skills:
