@@ -9,7 +9,7 @@ I've always loved games and anime. Seeing new innovations inspired me to start c
 
 * 🌍  I'm based in Thailand
 
-<a href="https://www.github.com/nattapat2871" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/9rtnkun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/9rtnkun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=9rtnkun&repo=9rtnkun&countColor=%237B1E7A)
 
