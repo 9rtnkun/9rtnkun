@@ -35,8 +35,11 @@ src="https://img.shields.io/github/followers/9rtnkun?logo=github&style=for-the-b
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=9rtnkun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=9rtnkun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9rtnkun/9rtnkun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9rtnkun/9rtnkun/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/9rtnkun/9rtnkun/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=9rtnkun&icon=0&color=0)](https://visitcount.itsvg.in)
